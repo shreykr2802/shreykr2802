@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreykr2802&label=Profile%20views&color=0e75b6&style=flat" alt="shreykr2802" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreykr2802" alt="shreykr2802" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shreykr2802" target="blank"><img src="https://img.shields.io/twitter/follow/shreykr2802?logo=twitter&style=for-the-badge" alt="shreykr2802" /></a> </p>
 
 - 🌱 I’m looking forward to learn **Vuejs**
