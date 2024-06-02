@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shrey Kumar</h1>
-<h3 align="center">A passionate frontend developer. Problem solver with passion to develop and improvise.</h3>
+<h3 align="center">A passionate fullstack developer. Problem solver with passion to develop and improvise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreykr2802&label=Profile%20views&color=0e75b6&style=flat" alt="shreykr2802" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreykr2802" target="blank"><img src="https://img.shields.io/twitter/follow/shreykr2802?logo=twitter&style=for-the-badge" alt="shreykr2802" /></a> </p>
 
-- 🌱 I’m looking forward to learn **Vuejs**
+- 🌱 I’m looking forward to learn **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreykr2802/](https://github.com/shreykr2802/)
 
-- 📝 I regularly write articles on [https://shreykr.com](https://shreykr.com)
+- 📝 I regularly write articles on [https://shreykumar.com](https://shreykumar.com)
 
 - 💬 Ask me about **React, Javascript, CSS**
 
 - 📫 How to reach me **shreykr2802@gmail.com**
 
-- 📄 Know about my experiences [https://shreykr.com](https://shreykr.com)
+- 📄 Know about my experiences [https://shreykumar.com](https://shreykumar.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
