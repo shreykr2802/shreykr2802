@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreykr2802/](https://github.com/shreykr2802/)
 
-- 📝 I regularly write articles on [https://shreykumar.com](https://shreykumar.com)
+- 📝 I regularly write articles on [https://shreykumar.com/blog](https://shreykumar.com/blog)
 
 - 💬 Ask me about **React, Javascript, CSS**
 
